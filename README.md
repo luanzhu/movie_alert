@@ -8,7 +8,7 @@ However, only GET calls are used.  Looks like I picked a wrong project to
 test RoadRunner. :)
 
 # TMD API Key
-This program expects themoviedb.org/Fandango API key in the environment.
+This program expects themoviedb.org API key in the environment.
 
 ```bash
 export TMD_API_V3=your_fandango_api_key
