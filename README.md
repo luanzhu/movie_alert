@@ -11,7 +11,7 @@ test RoadRunner. :)
 This program expects themoviedb.org API key in the environment.
 
 ```bash
-export TMD_API_V3=your_fandango_api_key
+export TMD_API_V3=your_themoviedb_api_key
 
 ```
 
